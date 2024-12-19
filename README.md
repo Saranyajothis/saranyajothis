@@ -3,8 +3,6 @@
 <!--
 **Saranyajothis/saranyajothis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here’s the updated README file with **Express.js** and **Node.js** included:  
-
 ---
 
 # Hi, I'm Saranya JS! 👋  
