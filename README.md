@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**Saranyajothis/saranyajothis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
----
-
 # Hi, I'm Saranya JS! 👋  
 
 **Java Backend Developer | iOS App Developer | Master's in Software Engineering Systems @Northeastern University**  
