@@ -50,7 +50,3 @@ Here are some highlights of my work:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saranya-js-770b46246/)  
 
 Feel free to explore my repositories and connect for exciting collaborations! 🚀  
-
----  
-
-Let me know if you’d like further refinements!
